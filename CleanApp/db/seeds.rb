@@ -36,5 +36,5 @@ Card.create(description: "Pay your bills electronically",keyword: "https://media
 Card.create(description: "Fix any leaky faucets", keyword: "https://media.tenor.com/images/b7c8e298ae6d13cf00c7a68f5f942192/tenor.gif", points: 3)
 Card.create(description: "Turn two old t-shirts into cleaning rags", keyword: "https://media.tenor.com/images/00d7ddf2e3cedfcdea22e6db55789585/tenor.gif", points: 1)
 Card.create(description: "Read magazines and newspapers online", keyword: "https://media.tenor.com/images/47f358bdd1a97775f9c3ac9e277c9980/tenor.gif", points: 1)
-Card.create(description: "cancel all junk mail", keyword: "https://media.tenor.com/images/1e2bb0d23ccefc0280f57cd5c082ae0f/tenor.gif", points: 1)
+Card.create(description: "Cancel all junk mail", keyword: "https://media.tenor.com/images/1e2bb0d23ccefc0280f57cd5c082ae0f/tenor.gif", points: 1)
 Card.create(description: "Enjoy nature and the environment around you", keyword: "https://media.tenor.com/images/4e0bd6aa28af24963dc0566cd2a8ad7c/tenor.gif", points: 3)
