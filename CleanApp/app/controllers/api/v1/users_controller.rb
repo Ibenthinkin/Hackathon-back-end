@@ -8,7 +8,6 @@ skip_before_action :verify_authenticity_token
     render json: @users
   end
 
-
   def update
     @user = User.find(params[:id])
     @user.points = params[:points]
